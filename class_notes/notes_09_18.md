@@ -2,6 +2,15 @@
 
 #### Week of : September 17, 2017
 
+
+### Important Concepts
+
+* Metacognition ([Mind map](https://en.wikipedia.org/wiki/Mind_map)/Learning by conceptualization)*
+* Quantitative vs. Qualitative
+* Sterile technique
+* Accuracy/Precision
+* Error (in observation)
+
 ### Important terms
 
 * microliters/milliliters/liters
@@ -9,13 +18,8 @@
 * Pipette tubes
 * Cross-contamination
 
-### Important Concepts
 
-* Quantitative vs. Qualitative
-* Sterile technique
-* Accuracy/Precision
-* Error (in observation)
-
+* You will not be quizzed on metacognition terms. 
 
 ### Post-Class Review
 
@@ -34,3 +38,10 @@ Measurement is a cornerstone of scientific technique. What we will introduce in 
 [Mastering Micropipettes](https://youtu.be/wcLfqKnAE-k) - A helpful YouTube video on using the Eppendorf pipettes we have in class. 
 [Powers of 10](https://youtu.be/0fKBhvDjuy0) - A (classic) Video on the powers of 10, and how they matter to you. 
 [Nikon Universcale](http://www.nikon.com/about/sp/universcale/index.htm) - Another interesting look at powers of 10.
+
+
+## Pipette Specifications
+
+Specifications from the [Eppendorf website](https://www.pipette.com/eppendorfpipettes?sbr=12&sbn=Eppendorf%20Research%202100)
+
+![](./img/pipette_specs.jpg)
