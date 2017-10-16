@@ -1,4 +1,4 @@
-# Introduction to Molecular Biology - Mitochondrial Lab
+# Introduction to Molecular Biology - Mitochondrial DNA Sequencing
 
 #### Week of : September 25, 2017
 
