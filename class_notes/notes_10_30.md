@@ -12,7 +12,7 @@ In this virtual class, we will take a first look at analyzing your mitochondrial
 **Resources:**
 - [DNA Subway manual - Blue Line Guide](https://cyverse-dnasubway-guide.readthedocs-hosted.com/en/latest/step5.html)
 
-**Virtual lecture Recording:** [Link]()
+**Virtual lecture Recording:** [Link](https://drive.google.com/open?id=0B3T3ADE4AgOYLUxFQnQwdGljaDg)
 
 ### Virtual Laboratory Exercise: Examine your mitochondrial DNA
 
