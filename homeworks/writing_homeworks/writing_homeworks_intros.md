@@ -19,3 +19,40 @@ A reference or citation is a central to writing in science. Most of science is a
 4. Saves space and time - your paper is not about PCR; if the reader wants to learn more, they can look up the reference. 
 
 
+**We will use the following protocol for references in our assignments**
+See the full protocol [here](https://github.com/JasonJWilliamsNY/science_institute_2017_materials/blob/master/papers_articles/references_protocol.pdf). 
+
+
+1. In the paragraph of text, use an inline citation (author name(s), publication year). If there are more than 3 authors you can say (author1, author2, et.al., 2000) 
+    - For example:
+        - "In our laboratory, we used PCR (Saiki, Gelfand, et.al, 1987) to amplify the DNA fragments." 
+2. In the references section, follow the protocol (End-of-document citations) to choose the reference format, base on where the information was taken from. 
+
+   - For example:
+       - Randal K. Saki, David H. Gelfand, Susanne Stoffel, Stephen J. Scharf, Russel Giguchi, Glenn T. Horn, Karry B. Mullis, Henry A. Erlich. 1988. Primer-Directed Enzymatic Amplification of DNA with a Themostable DNA Polymerase. Science. 239():487-491. 
+
+
+
+## Assignment
+
+**Part I**
+
+Read the introduction section on the paper by Richard Robert on RNA splicing [paper](https://github.com/JasonJWilliamsNY/science_institute_2017_materials/raw/master/papers_articles/mrna_splicing_annotated_ACroberts.pdf). and answer the following questions:
+(It is *strongly* recommended you work with a partner(s) on these questions). 
+
+1. What was something that was unknown to other researcher before this paper was published (e.g. what is the mystery they are trying to solve)? 
+2. The authors mention that eukaryotic transcription might be like one of three other known systems (they refer to them as schemes). This is actually their hypothesis (e.g. eukaryotic transcription might be like one of the three). What are the three hypotheses?
+3. What do they propose studying to make solve the problem (e.g. decide which hypothesis is correct)
+4. What approach did they use to visualize the mRNA "R-loops"?
+
+
+**Part II**
+
+Write your own introduction to the mitochondrial DNA sequencing lab. The introduction should be 250 words or less. Unfortunately, since this is an experiment you did not create yourself, your question is very limited (e.g. how does my mitochondrial DNA compare to the DNA of my classmates). However, you can do the following in your short intro. 
+
+1. Explain what mitochondrial DNA is (vs. for example nuclear DNA)
+2. Explain why we are looking at **your** mitochondrial DNA (vs. just looking at any mitochondrial DNA). 
+3. Introduce the methods we used to obtain and sequence your mitochondrial DNA. 
+4. Use at least one reference to an article or published work. 
+
+To help you, you may find this web resource helpful with background on our experiment, mitochondrial DNA, and other information: [Genetic origins](http://www.geneticorigins.org/mito/mitoframeset.htm). Please feel free to use Wikipedia or any other published credible resource. 
