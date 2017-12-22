@@ -1,0 +1,59 @@
+---
+# create the dcuser
+
+- user:
+    name: orlow
+    password: '$6$iU5zJD82OBQ51kAq$1Wgzsw3VLuz40CR7FnIl5JxzM1geQLl/jaGRq50hnLQoc9z8gftb2gTHaIiDqg0bWMIKKmV1AFCvBCscA2QAo1'
+    createhome: yes
+    shell: /bin/bash
+    system: no
+    groups: "root"
+
+- user:
+    name: rahmanfar
+    password: '$6$iU5zJD82OBQ51kAq$1Wgzsw3VLuz40CR7FnIl5JxzM1geQLl/jaGRq50hnLQoc9z8gftb2gTHaIiDqg0bWMIKKmV1AFCvBCscA2QAo1'
+    createhome: yes
+    shell: /bin/bash
+    system: no
+    groups: "root"
+
+- user:
+    name: hamerman
+    password: '$6$iU5zJD82OBQ51kAq$1Wgzsw3VLuz40CR7FnIl5JxzM1geQLl/jaGRq50hnLQoc9z8gftb2gTHaIiDqg0bWMIKKmV1AFCvBCscA2QAo1'
+    createhome: yes
+    shell: /bin/bash
+    system: no
+    groups: "root"
+
+- user:
+    name: stiefel
+    password: '$6$iU5zJD82OBQ51kAq$1Wgzsw3VLuz40CR7FnIl5JxzM1geQLl/jaGRq50hnLQoc9z8gftb2gTHaIiDqg0bWMIKKmV1AFCvBCscA2QAo1'
+    createhome: yes
+    shell: /bin/bash
+    system: no
+    groups: "root"
+
+- user:
+    name: grajower
+    password: '$6$iU5zJD82OBQ51kAq$1Wgzsw3VLuz40CR7FnIl5JxzM1geQLl/jaGRq50hnLQoc9z8gftb2gTHaIiDqg0bWMIKKmV1AFCvBCscA2QAo1'
+    createhome: yes
+    shell: /bin/bash
+    system: no
+    groups: "root"
+
+- user:
+    name: kikov
+    password: '$6$iU5zJD82OBQ51kAq$1Wgzsw3VLuz40CR7FnIl5JxzM1geQLl/jaGRq50hnLQoc9z8gftb2gTHaIiDqg0bWMIKKmV1AFCvBCscA2QAo1'
+    createhome: yes
+    shell: /bin/bash
+    system: no
+    groups: "root"
+
+- user:
+    name: williams
+    password: '$6$iU5zJD82OBQ51kAq$1Wgzsw3VLuz40CR7FnIl5JxzM1geQLl/jaGRq50hnLQoc9z8gftb2gTHaIiDqg0bWMIKKmV1AFCvBCscA2QAo1'
+    createhome: yes
+    shell: /bin/bash
+    system: no
+    groups: "root"
+...
