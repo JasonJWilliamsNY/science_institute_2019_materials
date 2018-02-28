@@ -40,5 +40,5 @@ Study the following resources to prepare yourself for the quiz:
 
 DNA Barcoding protocol: https://www.dnabarcoding101.org/files/using-dna-barcodes.pdf
 
-DNA Barcoding slides: 
+DNA Barcoding slides: https://github.com/JasonJWilliamsNY/science_institute_2017_materials/blob/master/slides/barcoding_intro.pdf
 
