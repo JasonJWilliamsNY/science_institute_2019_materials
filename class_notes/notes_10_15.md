@@ -45,7 +45,7 @@ Before reviewing the materials below, answer the following questions.
 
 ## Lecture Link
 
-A breif recorded lecture for this class is available here: [link]()
+A breif recorded lecture for this class is available here: [link](https://drive.google.com/open?id=1NMchaudCLw-vl2GfGtEzAlfwxJyOu__4)
 
 
 ### Resources to review
