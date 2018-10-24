@@ -17,7 +17,7 @@ Answering questions and reviewing the resources should 30-45 minutes.
 **Resources:**
 - [DNA Subway manual - Blue Line Guide](https://cyverse-dnasubway-guide.readthedocs-hosted.com/en/latest/step5.html)
 
-**Virtual lecture Recording:** [Link]()
+**Virtual lecture Recording:** [Link](https://drive.google.com/open?id=1dHnLrOD63FAJunC2OIhIAWZ--PPKDrmN)
 
 
 ----
