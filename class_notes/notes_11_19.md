@@ -1,6 +1,6 @@
 ## Introduction to PCR 
 
-#### Week of November 19th, 2018
+#### Week of November 13th, 2017
 
 ----
 
@@ -35,5 +35,3 @@ Polymerase Chain Reaction (PCR) is one of the most important techniques in the m
 In the PCR reaction, what do the following components of the reaction do?
 1. DNA polymerase
 2. Nucleotides
-3. dNTPs
-4. Primers
