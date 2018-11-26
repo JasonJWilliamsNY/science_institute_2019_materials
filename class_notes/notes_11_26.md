@@ -4,8 +4,8 @@
 
 In this virtual class, we will explore the idea of ethics as it relates to our work in the lab. 
 
-###Homework
-Answer pre- lecture questions/Vocabulary and complete the short essay. 
+### Homework
+Answer pre- lecture questions/Vocabulary 
 
 **Time:** Including viewing the lectures, listening activities, questions, and reading, this should require 60-120 minutes of time. Think about doing most of this during the time of our normal class. 
 
