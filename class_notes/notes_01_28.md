@@ -6,9 +6,9 @@
 
 **Thought questions**
 
-1. What is GMO (Genetically Modified Organisim)?
+1. What is GMO (Genetically Modified Organisms)?
 2. Why have scientists created GMOs?
-3. When did genetic modification of organims by humans start?
+3. When did genetic modification of organisms by humans start?
 
 **Vocabulary**
 
@@ -23,9 +23,9 @@ See that you are familiar and comfortable with the following topics/vocabulary
 
 ### Topic Summary
 
-Genetic modification of organisims has been around for a long time (how long?).
+Genetic modification of organisms has been around for a long time (how long?).
 Increasingly our ability to modify the genetics of ourselves and the living
-organisims around is increasing in its impact. We will perform a laboratory to
+organisms around is increasing in its impact. We will perform a laboratory to
 detect evidence of genetic modification in foods.
 
 **Resource Links**
