@@ -13,10 +13,10 @@
      you should review our previous notes on [PCR](https://github.com/JasonJWilliamsNY/science_institute_2018_materials/blob/master/class_notes/notes_11_19.md) as our next text will
      cover this material after our in-class review.
  2. Photos of your results are available
-    - [Group 1 raw](../images_results/feb_gmo/group1_raw.jpg)[Group 1 edited](../images_results/feb_gmo/group1_edited.jpg)
-    - [Group 2 raw](../images_results/feb_gmo/group2_raw.jpg)[Group 2 edited](../images_results/feb_gmo/group2_edited.jpg)
-    - [Group 3 raw](../images_results/feb_gmo/group3_raw.jpg)[Group 3 edited](../images_results/feb_gmo/group3_edited.jpg)
-    We also have a photo of the [ladder](../images_results/feb_gmo/neb1kb.gif)
+    - [Group 1 raw](../images_results/feb_gmo/group1_raw.jpg)  | [Group 1 edited](../images_results/feb_gmo/group1_edited.jpg)
+    - [Group 2 raw](../images_results/feb_gmo/group2_raw.jpg)  | [Group 2 edited](../images_results/feb_gmo/group2_edited.jpg)
+    - [Group 3 raw](../images_results/feb_gmo/group3_raw.jpg)  | [Group 3 edited](../images_results/feb_gmo/group3_edited.jpg)
+    - We also have a photo of the [ladder](../images_results/feb_gmo/neb1kb.gif)
   3. Using your photos (the edited photos are higher contrast), do your best to
      do the following; we will go over your work on our next class.
      1. Label the lanes on your gel (you can either print the photo, or download
