@@ -1,6 +1,6 @@
 #Safety in the LAB
 
-#### Week of : September 17, 2017
+#### Week of : September 09, 2019
 
 ### Important terms
 
@@ -11,7 +11,8 @@
 * Aliquot
 * Stock Solution
 * EH&S (Environmental Health and Safety)
-
+* Accuracy
+* Precission
 
 
 ### Important Concepts
