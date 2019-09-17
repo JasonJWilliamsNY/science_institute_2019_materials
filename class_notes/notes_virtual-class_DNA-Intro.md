@@ -3,7 +3,7 @@
 
 ### Important Concepts
 
-* Metacognition: Mental models and ([Mind maps](https://en.wikipedia.org/wiki/Mind_map)
+* Metacognition: Mental models and ([Mind maps](https://en.wikipedia.org/wiki/Mind_map))
 * DNA is the molecule of life
 * We can understand DNA at a variety of levels (chemical, biological, information)
 * DNA encodes information that makes proteins
