@@ -50,7 +50,7 @@ Before answering the post question, here are some resources you should review:
    This video gives a nice explanation of mitochondrial DNA basics [link](https://www.youtube.com/watch?v=ru7Wyt778QQ)
    
 
-4. Bonus: If you have time, our next topic will be PCR which you can preview here:
+4. Bonus: If you have time, our next topic will be PCR which you can preview here: [PCR Video](https://youtu.be/2KoLnIwoZKU)
 
 
 ### Post-Questions
