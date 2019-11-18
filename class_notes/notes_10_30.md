@@ -4,7 +4,7 @@
 
 In this virtual class, we will take a first look at analyzing your mitochondrial DNA results using [DNA Subway](https://dnasubway.cyverse.org/). The analysis of biological data (such as your DNA sequence) is an area of biology called [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics) and is an important component of doing research. 
 
-**Due Date:** Submit answers to your questions by 5:00PM 11/6 (i.e. have this done before our next class). Although this assignment is not graded, do the best you can to answer all questions. The video link is approximately 15 minutes. Answering questions and reviewing the resources should 30-45 minutes. 
+**Due Date:** Submit answers to your questions by 5:00PM 11/25 (i.e. have this done before our next class). Although this assignment is not graded, do the best you can to answer all questions. The video link is approximately 15 minutes. Answering questions and reviewing the resources should 30-45 minutes. 
 
 
 ### Resources/Lecture Link
@@ -12,7 +12,7 @@ In this virtual class, we will take a first look at analyzing your mitochondrial
 **Resources:**
 - [DNA Subway manual - Blue Line Guide](https://cyverse-dnasubway-guide.readthedocs-hosted.com/en/latest/step5.html)
 
-**Virtual lecture Recording:** [Link](https://drive.google.com/open?id=0B3T3ADE4AgOYLUxFQnQwdGljaDg)
+**Virtual lecture Recording:** [Link](https://drive.google.com/file/d/1UXmvphBoyYpohemn0Rq4rCVCMJ30tNZQ/view?usp=sharing)
 
 ### Virtual Laboratory Exercise: Examine your mitochondrial DNA
 
@@ -36,22 +36,22 @@ In this virtual class, we will take a first look at analyzing your mitochondrial
 2. Once you are logged in click the blue square 'Determine Sequence Relationships'
 3. Under 'Select Project Type' choose 'mtDNA'
 4. Under 'Select Sequence Source' choose 'Import trace files from DNALC'
-5. Select the entry for tracking number **30-30612517**, 10/07/2017, Jason Williams. 
+5. Select the entry for tracking number **30-308134038**, 11/12/2019, Jason Williams. 
 6. Click 'Select All' to add the available sequences, then click 'Add selected files.'
-7. Under 'Name Your Project' enter "Mitochondrial DNA Lab, Oct. 2017", then click 'Continue'
+7. Under 'Name Your Project' enter "Mitochondrial DNA Lab, Nov. 2019", then click 'Continue'
 8. On the DNA Subway screen you will see various analysis steps, click on 'Sequence Viewer' to view your DNA Sequence. 
 9. Clicking on the name of any sequence in the Sequence Viewer will allow you to view that sequence's chromatogram readout. Answer lab question 1
 10. Exit the 'Sequence Viewer' window
 
 ##### Cleaning Sequence
 
-1. Click on 'Sequence Trimmer' to run the tool, then click again to view the result. Answer lab question 2
+1. Click on 'Sequence Trimmer' to run the tool, then click again to view the result (you will use this information to answer lab question 2). 
 2. Exit the 'Sequence Trimmer' window
 
 ##### Find Sequence Matches
 
 1. Click on the 'BLAST' tool. 
-2. Next to the name of your sequence click 'BLAST'; use the result to answer lab question 3. 
+2. Next to the name of your sequence click 'BLAST'(you will use this information to answer lab question 3).
 3. Exit the 'BLAST' window
 
 ##### Compare sequences
