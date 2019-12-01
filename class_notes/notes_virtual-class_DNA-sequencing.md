@@ -5,7 +5,7 @@
 
 In this virtual class, we will delve into DNA sequencing, an important technology in molecular biology. Using [Sanger sequencing](en.wikipedia.org/wiki/Sanger_sequencing) we took the products of the mitochondria DNA experiment and revealed the actual sequence of nucleotides in your DNA. We will review how this technology works, and you will answer some pre- and post-lecture questions. 
 
-**Due Date:** Submit answers to your questions by 7:00PM 12/9. Although this assignment is not graded, do the best you can to answer all questions. The video link is approximately 15 minutes. Answering questions and reviewing the resources should 30-45 minutes. 
+**Due Date:** Submit answers to your questions by 7:00PM 10/30. Although this assignment is not graded, do the best you can to answer all questions. The video link is approximately 15 minutes. Answering questions and reviewing the resources should 30-45 minutes. 
 
 ### Pre-questions
 
