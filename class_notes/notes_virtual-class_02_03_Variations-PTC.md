@@ -21,12 +21,12 @@ to start you thinking about the topics.
 
 ### Resources/Lecture Link
 
-- **Virtual lecture Recording:** [Link](s)
-- **Virtual lecture slides:** [Link](s)
+- **Virtual lecture Recording:** [Link](https://drive.google.com/file/d/14elq3RojemGHpKaptj3_BLrpnacqmBTU/view?usp=sharing)
+- **Virtual lecture slides:** [Link](https://github.com/JasonJWilliamsNY/science_institute_2019_materials/raw/master/slides/Human_polymorphisims_PTC.pdf)
 
 ### Post-lecture questions:
 
 4. What does polymorphisim mean?
-5. What is a SNP? 
+5. What is a SNP?
 6. What is the difference between a transition and a transverstion? (give an example of each)
 7. What is a CAPS marker
